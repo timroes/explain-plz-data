@@ -1,0 +1,3 @@
+Contains build files for specific devices (e.g. emulator, generic, generic
+x86, etc.). These build scripts set some variables and do configuration
+needed for these devices.
