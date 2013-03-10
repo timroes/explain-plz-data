@@ -1,0 +1,3 @@
+Bionic is a port of the BSD C library, that is used inside Android.
+You can find a more detailed overview over bionic in the NDK documentation at
+ndk/docs/system/libc/OVERVIEW.html

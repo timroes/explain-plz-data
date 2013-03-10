@@ -1,4 +1,5 @@
 .|root.txt
+bionic|bionic.txt
 build|build.txt
 build/core|build_core.txt
 build/target|build_target.txt
