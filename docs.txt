@@ -1,0 +1,2 @@
+Contains the source.android.com webpage as Markdown pages, that can be
+converted to HTML pages via the build scripts in the scripts folder.
