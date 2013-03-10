@@ -1,0 +1,1 @@
+Contains the default wallpaper applications for Android.

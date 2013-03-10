@@ -1,0 +1,2 @@
+Contains the different Provider applications in Android (e.g.
+CalendarProvider, MediaProvicer, etc.)

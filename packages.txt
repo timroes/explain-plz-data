@@ -1,0 +1,2 @@
+Contains several packages (apps, wallpapers, etc.) that are used in Android
+and are open sourced as part of AOSP.

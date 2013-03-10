@@ -1,0 +1,2 @@
+Contains several of the basic Android applications (e.g. SMS, Dialer,
+Launcher, etc.) that are part of AOSP.

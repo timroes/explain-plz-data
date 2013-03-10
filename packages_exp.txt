@@ -1,0 +1,2 @@
+Contains Android applications that are not meant to ship with any device, but 
+might be usefull for testing or development.

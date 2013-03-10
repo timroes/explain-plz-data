@@ -16,4 +16,11 @@ docs|docs.txt
 frameworks/support|fw_support.txt
 frameworks/support/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt
+packages|packages.txt
+packages/apps|packages_apps.txt
+packages/experimental|packages_exp.txt
+packages/inputmethods|packages_input.txt
+packages/providers|packages_providers.txt
+packages/screensavers|packages_providers.txt
+packages/wallpapers|packages_wallpapers.txt
 tools/build|tools_build.txt

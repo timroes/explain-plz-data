@@ -1,0 +1,1 @@
+Contains the default screensaver applications for Android.
