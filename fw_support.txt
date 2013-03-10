@@ -1,0 +1,2 @@
+Contains the source code of the Android support library:
+http://developer.android.com/tools/extras/support-library.html

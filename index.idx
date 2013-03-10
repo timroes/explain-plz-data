@@ -6,5 +6,7 @@ build/target|build_target.txt
 build/tools|build_tools.txt
 cts|cts.txt
 docs|docs.txt
+frameworks/support|fw_support.txt
+frameworks/support/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt
 tools/build|tools_build.txt

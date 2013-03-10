@@ -1,0 +1,3 @@
+A compatibility library yet to be finished including backward compatibility
+for the Android ActionBar. This will be separated library since it must be an
+Android library and won't be a JAR like the rest of the Support Library.
