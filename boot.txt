@@ -1,0 +1,3 @@
+This folder contains several projects related to the boot process. This
+includes projects that run before the device actually started (e.g.
+bootloader, recovery system).

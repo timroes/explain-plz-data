@@ -1,5 +1,7 @@
 .|root.txt
 bionic|bionic.txt
+bootable|boot.txt
+bootable/recovery|boot_recovery.txt
 build|build.txt
 build/core|build_core.txt
 build/target|build_target.txt
