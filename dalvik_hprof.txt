@@ -1,0 +1,2 @@
+Contains the sources for the hprof-conv tool, to convert dex heap dumps to
+regular heap dumps (i.e. readable by the Eclipse Memory Analyzer).

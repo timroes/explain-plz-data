@@ -5,6 +5,13 @@ build/core|build_core.txt
 build/target|build_target.txt
 build/tools|build_tools.txt
 cts|cts.txt
+dalvik|dalvik.txt
+dalvik/dexdump|dalvik_dexdump.txt
+dalvik/dexgen|dalvik_dexgen.txt
+dalvik/dx|dalvik_dx.txt
+dalvik/opcode-gen|dalvik_opcode.txt
+dalvik/tools/hprof-conf|dalvik_hprof.txt
+dalvik/vm|dalvik_vm.txt
 docs|docs.txt
 frameworks/support|fw_support.txt
 frameworks/support/appcompat|fw_support_appcompat.txt

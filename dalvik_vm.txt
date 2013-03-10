@@ -1,0 +1,1 @@
+Contains the source code of the actual Dalvik VM running on devices.

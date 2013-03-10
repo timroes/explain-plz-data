@@ -1,0 +1,2 @@
+Contains the information about the dalvik bytecode. Also contains the tools to
+generate all files needd, when modifying opcodes.
