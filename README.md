@@ -3,7 +3,7 @@ explain-plz-data
 
 This is the data for the [explain-plz](https://github.com/timroes/explain-plz) tool.
 
-If you can add anythign usefull to the data or want to modify explanations, please send pull
+If you can add anything usefull to the data or want to modify explanations, please send pull
 requests to that project.
 
 The data should always aim to the most recent Android source code. So if projects have been

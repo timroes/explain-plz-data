@@ -1,0 +1,2 @@
+Contains the main Makefiles to build Android. The main entry point for the
+build process is the main.mk Makefile.
