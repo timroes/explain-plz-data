@@ -1,0 +1,3 @@
+Contains the build files, documentation and several tools for the ndk.
+It doesn't contain the header files and libs, since these are pulled over
+from other locations to the NDK build, that can be downloaded by developers.

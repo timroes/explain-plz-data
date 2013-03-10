@@ -1,0 +1,4 @@
+Contains all files needed for the CTS (Compatibility Test Suite,
+http://source.android.com/compatibility/cts-intro.html) that is used by
+manufacturers to test if their devices/builds fulfill the current
+Compatibility Definition Document (CDD).

@@ -3,3 +3,5 @@ build|build.txt
 build/core|build_core.txt
 build/target|build_target.txt
 build/tools|build_tools.txt
+cts|cts.txt
+ndk|ndk.txt
