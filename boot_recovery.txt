@@ -1,2 +1,2 @@
 Contains the default recovery system used on Android devices, that can be used
-to applu updates and factory reset the device.
+to apply updates and factory reset the device.
