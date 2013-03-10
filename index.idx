@@ -10,7 +10,7 @@ dalvik/dexdump|dalvik_dexdump.txt
 dalvik/dexgen|dalvik_dexgen.txt
 dalvik/dx|dalvik_dx.txt
 dalvik/opcode-gen|dalvik_opcode.txt
-dalvik/tools/hprof-conf|dalvik_hprof.txt
+dalvik/tools/hprof-conv|dalvik_hprof.txt
 dalvik/vm|dalvik_vm.txt
 docs|docs.txt
 frameworks/support|fw_support.txt
