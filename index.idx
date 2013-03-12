@@ -15,6 +15,7 @@ dalvik/opcode-gen|dalvik_opcode.txt
 dalvik/tools/hprof-conv|dalvik_hprof.txt
 dalvik/vm|dalvik_vm.txt
 docs|docs.txt
+frameworks|frameworks.txt
 frameworks/support|fw_support.txt
 frameworks/support/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt
