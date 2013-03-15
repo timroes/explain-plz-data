@@ -1,0 +1,4 @@
+This Android app contains the general System User Interface (SystemUI). It
+consists among other things of the navigation bar, the status bar or the 
+recent activities view. If you want to change the look and feel of the very
+basic UI control elements, this is the place to look for.

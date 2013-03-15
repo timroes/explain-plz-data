@@ -22,6 +22,7 @@ external/proguard|ext_proguard.txt
 external/skia|ext_skia.txt
 external/sqlite|ext_sqlite.txt
 frameworks|frameworks.txt
+framworks/base/packages/SystemUI|systemui.txt
 frameworks/support|fw_support.txt
 frameworks/support/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt
