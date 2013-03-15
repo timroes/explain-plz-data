@@ -1,0 +1,2 @@
+Contains the Java part of OpenGL (like all the wrapper classes and such).
+If you search the native OpenGL part, you will find it in frameworks/native/opengl.

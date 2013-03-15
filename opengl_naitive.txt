@@ -1,0 +1,2 @@
+Contains the native part of OpenGL ES as it is used in Android.
+To check the Java part of OpenGL check frameworks/base/opengl.
