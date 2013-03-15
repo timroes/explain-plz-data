@@ -31,6 +31,7 @@ frameworks/support/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt
 packages|packages.txt
 packages/apps|packages_apps.txt
+packages/apps/Contacts|apps_contacts.txt
 packages/apps/Settings|apps_settings.txt
 packages/experimental|packages_exp.txt
 packages/inputmethods|packages_input.txt

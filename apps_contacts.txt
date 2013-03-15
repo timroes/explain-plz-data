@@ -1,0 +1,2 @@
+Contain the Contacts application of Android. The content provider for the
+contacts can be found in packages/providers/ContactsProvider.
