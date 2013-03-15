@@ -1,4 +1,4 @@
 This folder contains the new Gradle build plugin. In the future this is going
 to replace the Ant and ADT build system. You can find a more detailed
 explanation on their webpage (http://tools.android.com/tech-docs/new-build-system)
-and in the readme.md inside the project folder.
+and in the readme.md in this project.

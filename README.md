@@ -4,10 +4,13 @@ explain-plz-data
 This is the data for the [explain-plz](https://github.com/timroes/explain-plz) tool.
 
 If you can add anything usefull to the data or want to modify explanations, please send pull
-requests to that project.
+requests to this project.
 
 The data should always aim to the most recent Android source code. So if projects have been
 moved, this data won't work on older source code versions.
+
+Files in this project
+---------------------
 
 The data in this project is organized in two type of files:
 

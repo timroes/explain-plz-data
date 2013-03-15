@@ -1,0 +1,6 @@
+Contains the main Android Framework. This consists of all the API a developer
+can use, when coding against Android Apps, several system services and native 
+daemons, the Android Runtime and so on. It is the framework running on top of 
+the Linux kernel on an Android device, making Android what it is. Though you 
+could also say the default apps and packages belong to the framework, this 
+folder contains mainly the core framework, services, etc.
