@@ -15,6 +15,12 @@ dalvik/opcode-gen|dalvik_opcode.txt
 dalvik/tools/hprof-conv|dalvik_hprof.txt
 dalvik/vm|dalvik_vm.txt
 docs|docs.txt
+external|external.txt
+external/ping|ext_ping.txt
+external/ping6|ext_ping.txt
+external/proguard|ext_proguard.txt
+external/skia|ext_skia.txt
+external/sqlite|ext_sqlite.txt
 frameworks/support|fw_support.txt
 frameworks/support/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt

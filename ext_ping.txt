@@ -1,0 +1,1 @@
+Ping (for IPv4) and Ping6 (for IPv6) are the basic ping tools (ECHO request).

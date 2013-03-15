@@ -1,0 +1,3 @@
+Contains several 3rd party projects, that are used in different parts of
+Android (e.g. tcpdump, webkit, etc.). Every project have an own folder in
+this directory, that can be inspected for more explanation.

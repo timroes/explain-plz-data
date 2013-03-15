@@ -1,0 +1,2 @@
+ProGuard is the Java obfuscator, optimizer, etc. used in the build process of
+an Android application. This is part of the SDK used to develop Android apps.

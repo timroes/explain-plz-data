@@ -1,0 +1,3 @@
+SQLite implementation for Android. These has some custom modifications
+compared to regular SQLite. These modifications can be found in the
+dist/Android.path file for easy upgrading of the sqlite sources.
