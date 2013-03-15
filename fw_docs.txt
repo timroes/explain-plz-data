@@ -1,0 +1,3 @@
+Contains the whole developer and design documentation of Android as found on
+developer.android.com (or d.android.com). It contains the pages, images and
+downloads (not the hosted ones, see README in downloads subfolder).

@@ -22,6 +22,7 @@ external/proguard|ext_proguard.txt
 external/skia|ext_skia.txt
 external/sqlite|ext_sqlite.txt
 frameworks|frameworks.txt
+frameworks/base/docs|fw_docs.txt
 frameworks/base/opengl|opengl_java.txt
 frameworks/base/packages/SystemUI|systemui.txt
 frameworks/native/opengl|opengl_native.txt
