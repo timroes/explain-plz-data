@@ -1,0 +1,2 @@
+Contains the Android Settings application that let the user control
+all the global settings (display, sound, etc.).
