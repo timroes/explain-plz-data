@@ -14,6 +14,7 @@ dalvik/dx|dalvik_dx.txt
 dalvik/opcode-gen|dalvik_opcode.txt
 dalvik/tools/hprof-conv|dalvik_hprof.txt
 dalvik/vm|dalvik_vm.txt
+development/samples|dev_samples.txt
 docs|docs.txt
 external|external.txt
 external/ping|ext_ping.txt
@@ -38,4 +39,5 @@ packages/inputmethods|packages_input.txt
 packages/providers|packages_providers.txt
 packages/screensavers|packages_providers.txt
 packages/wallpapers|packages_wallpapers.txt
+sdk|sdk.txt
 tools/build|tools_build.txt

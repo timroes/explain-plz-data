@@ -1,0 +1,6 @@
+Contains most of the SDK tools (that are located under the tools folder if you
+download the SDK). These are tools that you you need to create Android
+applications. To modify what is packed into the SDK have a look at the
+build/tools.atree file in this project.
+If you are looking for a platform (API level) specific tools, images, samples,
+etc. you have to look into /development/build/sdk.atree.

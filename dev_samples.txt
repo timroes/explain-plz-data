@@ -1,0 +1,4 @@
+Contains most of the samples, that you can download via the SDK Manager.
+Some of the samples can also be found under /development/apps.
+The /development/build/sdk.atree file is used to pack an SDK Platform.
+If you search for the not platform specific SDK tools, look into /sdk.
