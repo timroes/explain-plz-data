@@ -1,0 +1,2 @@
+The wpa_supplicant daemon is used to set up wireless connections also using
+WPA and WPA2.

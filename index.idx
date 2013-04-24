@@ -22,6 +22,8 @@ external/ping6|ext_ping.txt
 external/proguard|ext_proguard.txt
 external/skia|ext_skia.txt
 external/sqlite|ext_sqlite.txt
+external/wpa_supplicant_6|ext_wpasupplicant.txt
+external/wpa_supplicant_8|ext_wpasupplicant.txt
 frameworks|frameworks.txt
 frameworks/base/docs|fw_docs.txt
 frameworks/base/opengl|opengl_java.txt
