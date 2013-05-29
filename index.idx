@@ -42,4 +42,5 @@ packages/providers|packages_providers.txt
 packages/screensavers|packages_providers.txt
 packages/wallpapers|packages_wallpapers.txt
 sdk|sdk.txt
+tools/adt/idea|tools_idea.txt
 tools/build|tools_build.txt

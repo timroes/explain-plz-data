@@ -1,0 +1,1 @@
+Contains the sources of Android Studio, the new Android IDE.
