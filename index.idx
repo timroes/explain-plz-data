@@ -30,7 +30,7 @@ frameworks/base/opengl|opengl_java.txt
 frameworks/base/packages/SystemUI|systemui.txt
 frameworks/native/opengl|opengl_native.txt
 frameworks/support|fw_support.txt
-frameworks/support/appcompat|fw_support_appcompat.txt
+frameworks/support/v7/appcompat|fw_support_appcompat.txt
 ndk|ndk.txt
 packages|packages.txt
 packages/apps|packages_apps.txt
